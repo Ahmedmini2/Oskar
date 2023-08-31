@@ -4,31 +4,31 @@ export const navLinks = [
   
   
   {
-    id: "brands",
+    id: "/brands",
     title: "brands",
   },
   {
-    id: "our story",
+    id: "/our story",
     title: "our story",
   },
   {
-    id: "export",
+    id: "/export",
     title: "export",
   },
   {
-    id: "contact",
+    id: "/contact",
     title: "contact",
   },
   {
-    id: "about",
+    id: "/about",
     title: "about_us",
   },
   {
-    id: "blogs",
+    id: "/blogs",
     title: "blogs",
   },
   {
-    id: "faq",
+    id: "/faq",
     title: "faq",
   },
 ];
@@ -39,23 +39,23 @@ export const footerBotLinks = [
     title: "Home",
   },
   {
-    id: "faq",
+    id: "/faq",
     title: "FAQ",
   },
   {
-    id: "about",
+    id: "/about",
     title: "About",
   },
   {
-    id: "brands",
+    id: "/brands",
     title: "Portfolio",
   },
   {
-    id: "news",
+    id: "/news",
     title: "Stories",
   },
   {
-    id: "contact",
+    id: "/contact",
     title: "Contact",
   },
   
