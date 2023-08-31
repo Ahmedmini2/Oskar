@@ -1,0 +1,208 @@
+{
+        
+        "signup_button": "Sign Up",
+        "signin_button": "Sign In",
+        "lang": "عربي",
+        "title": "Oskar Phone ",
+        "signout_button": "Sign Out",
+        "shop_button": "Shop",
+   
+        "faq" : "FAQ",
+        "about_us" : "About us",
+        "brands" : "Brands",
+        "export" : "Export",
+        "contact" : "Contact Us",
+        "blogs" : "Blogs",
+
+        "support" : "Support",
+        "about" : "About",
+
+        "delivery_term" : "Delivery & Returns",
+        "warranty_terms" : "Warranty Terms",
+        "terms_of_use" : "Terms of Use",
+        "privacy_policy" : "Privacy Policy",
+        "become_vendor" : "Become a Vendor",
+        "bulk_enquiries" : "Bulk Orders & Enquiries",
+        "outdoor_enquiries" : "Outdoor Enquiries",
+        
+        
+        "email" : "info@oskarme.com",
+        "phone" : "+9714 2696956",
+
+        "powerbank" : "Powerbank",
+        "headphones" : "Headphones",
+        "smart_watch" : "Smart Watch",
+
+        "powerbank_text" : "Empower your devices on the go with our cutting-edge power banks: Energize your lifestyle with portable charging solutions that never leave you hanging!.",
+        "headphones_text" : "Immerse yourself in a symphony of sound with our extraordinary headphones: Elevate your audio experience and indulge in pure sonic bliss with every beat.",
+        "smart_watch_text" : "Stay one step ahead with our sleek and intelligent smartwatches: A fusion of style and innovation, your wrist companion for a connected and empowered life.",
+
+        "learn_more" : "Learn more",
+    
+        "appeal_title" : "APPEAL TO USERS",
+        "appeal_description" : "Since its establishment in 1999, Oskar Group has transformed remarkably from a humble family business in Dubai to an esteemed trailblazer in the tech accessories industry. Today, we proudly boast multiple offices, warehouses, and retail stores spanning the Middle East and North Africa. Embracing advanced technology, professionalism, and outstanding customer relationship management, we have consistently provided tailored recommendations for various region gadgets and tech accessory needs.Our commitment to delivering exceptional value has earned us the trust and loyalty of countless customers, making us a highly regarded company in the area. Offering cutting-edge, cost-effective, and personalized solutions, our passionate team excels in sourcing, stocking, and efficiently distributing top-quality products worldwide. Guided by our core values of customer satisfaction, product innovation, service excellence, and teamwork, we continue to build upon our legacy by expanding our product range and venturing into new markets.",
+        "appeal_name1" : "Marry",
+        "appeal_position1" : "SALES CONTACT",
+        "appeal_name2" : "Marry",
+        "appeal_position2" : "SALES CONTACT",
+        "appeal_name3" : "Marry",
+        "appeal_position3" : "SALES CONTACT",
+        "appeal_see_more" : "SEE MORE",
+
+        "our_brand_main" : "values of customer satisfaction, product innovation, service excellence, and teamwork, we continue to build upon our legacy by expanding our product range and venturing into new markets.",
+        "porodo" : "Porodo",
+        "porodo_text" : "Porodo was established to provide affordable electronic accessories without sacrificing quality or advanced technology. They have a wide range of products in different categories and serve customers worldwide, offering thousands of top-quality solutions for their various needs",
+        "levelo" : "Levelo",
+        "levelo_text" : "Levelo, a top mobile accessory brand worldwide, aims to offer the best protection for your devices. We offer various products, including phone cases, screen protectors, and smartwatch bands, ensuring your devices stay safe and secure.",
+        "greenlion": "Green Lion",
+        "lepresso": "Lepresso",
+        "Powerology": "Powerology",
+        "read_more": "Read More",
+
+        "oskar_group" : "Oskar Group",
+        "oskar_group_success_title" : "20+ Years of Excellence in Mobile Accessories Distribution",
+        "our_story": "Our Story",
+        "category_management": "Category Management",
+        "marketing": "Marketing",
+        "advance_ecommerce": "Advance Ecommerce",
+        "sourcing": "R&D and Sourcing",
+        "logistic_and_warehousing": "Logistic and Warehousing",
+        "it_capability": "IT Capability",
+
+        "our_branches" : "Our Branches",
+        "our_branches_text" : "The rich market experience of over 20 years enabled us to become one of the most reliable destinations for all kinds of smart gadgets and cell phone accessories in the Middle East and North Africa. With multiple offices and warehouses across the region, we proudly deliver our products to millions of loyal customers keeping the business values and ethics. Our offices are located in UAE, Saudi Arabia, Oman, Qatar, Kuwait, Turkey, and Canada. Furthermore, we offer an efficient worldwide exporting facility on a transparent business deals on the products from global brands through collaborations with experienced courier partners.",
+        "UAE" : "UAE",
+        "kuwait" : "Kuwait",
+        "oman" : "Oman",
+        "qatar" : "Qatar",
+        "KSA" : "KSA",
+        "turkey" : "Turkey",
+        "canada" : "Canada",
+
+
+        "all_brands_titles" : "40+ Brands Over the years",
+        "all_brands_text" : "Exclusive relationships with global brands. Over the past two decades, we have established long-standing relationships with many renowned brands in the accessories industry through exclusive distribution agreements. These agreements allow us to provide our customers with a bouquet of superior quality products and services.",
+
+
+        "about_main" : "Since 1999, Oskar Group has grown from a small family business in Dubai to a leading pioneer in the tech accessories industry across the Middle East and North Africa. We use advanced technology and professionalism to recommend the best products and services for gadgets and tech accessory needs in the region. Our value focus has earned us trust, offering innovative and affordable solutions. With our experienced staff, we distribute quality products globally. Our core values include customer satisfaction, product innovation, service excellence, and teamwork, driving us to expand our product line and reach new markets.",
+        "masonary_title" : "OUR VISIONS AND MISSIONS ",
+        "masonary_text" : "We constantly bring new and innovative products to the market at competitive prices. Our wide range of mobile accessories includes cases, chargers, smartwatches, and more. Exclusive distribution agreements with global brands and a widespread network keep us ahead. Our on-time delivery system allows customers to track their orders until they arrive at their doorstep, no matter where they are.",
+        "masonary_sub_title1" : "Our Vision",
+        "masonary_sub_text1" : "A world with people having the best possible experience with their devices and access to the latest technology, which makes life easier, surroundings smarter, and dreams innovative, where Oskar Group is the premier destination for all types of mobile accessories and smart gadgets.",
+        "masonary_sub_title2" : "Our Mision",
+        "masonary_sub_text2" : "To connect the world with the latest technology and innovative products that improve people's smart life, from global brands at competitive price tags to suit all budgets.To be the leading distributor of mobile accessories and smart gadgets worldwide by providing our customers with the best selection of products, the highest quality of service, and the most competitive prices.",
+        
+
+        "video_title" : "Quality You Can Trust",
+        "video_text" : "When it comes to finding the right phone accessories, you want to be sure that you're getting the best quality possible; the Oskar Group is the perfect place to shop for all kinds of high-quality mobile phone accessories. We only carry the highest quality products from the most trusted brands in the industry. So whether you're looking for a new case, a new pair of headphones, or any other accessory item, you can be confident that you're getting the best. Quality is important to us, and we know it's important to you too. That's why we offer a 100% satisfaction guarantee on all our products. If we make a mistake, and if you're not completely happy with your purchase, our assured warranty terms make sure it's solved in no time. We are just a click away from you if you need something done. With Oskar Group, you can be sure you're getting the quality you deserve.",
+
+
+        "brands_associated": "Brands Associated with Oskar Group",
+        "all": "All",
+        "execlusive": "Exclusive Brands",
+        "authorized": "Authorized Reseller",
+
+
+        "why_us" : "Why Us",
+        "why_us_title1": "Advanced Customer Service",
+        "why_us_text1" : "We provide superior customer recognition, on-time delivery, assured stocks, and responsive customer care. Our professionally trained team is always at your service with the best available products and technology in the market, and we're confident that you'll love our services. We offer a wide range of services to meet your needs, and we carry a variety of accessories for all the popular phone models, so you're sure to find what you're looking for. Our competitive pricing on all products from significant brands gives you the best value for your investment. As we value our customers' expectations to deliver the orders as soon as possible, we ensure fast shipping and secure delivery at your doorstep. Finally, our friendly and knowledgeable customer service team is always ready to help, so you can be sure you're getting the best possible service.",
+        "why_us_title2": "Innovations Make You Smarter",
+        "why_us_text2" : "Since we started as a small company selling cell phone accessories, we have been committed to offering our customers the most innovative products, allowing them to be more efficient and productive in their day-to-day lives. This can be something as small as a new phone case that will enable you to charge your phone wirelessly, or it can be something that cleans your house without a simple physical touch. Whatever the innovation may be, it's sure to make your life easier in some way. Oskar Group is always keen to bring innovative products to the Middle East mobile accessories market through advanced sourcing techniques from a team of experts constantly researching new ways to improve its product line and services. As a result, Oskar Group is always at the forefront of the latest innovations in the phone accessories industry. This commitment to innovation has made Oskar Group Accessories distributor a trusted name in the phone accessories market.",
+
+        "portfolio_main" : "Oskar Group stands at the forefront of innovation, housing five renowned brands: Powerology, Porodo, Green Lion, Levelo, and Lepresso. These brands collectively present a diverse array of smart gadget accessories, catering to every tech enthusiast's needs. From reliable cables and power banks to cutting-edge smart home appliances like portable fridges, juicers, blenders, and smart vacuums, they offer solutions that epitomize convenience and functionality. Oskar Group's commitment to excellence and customer satisfaction shines through each brand, ensuring top-quality products that enhance daily life. With an impressive range spanning cables to smart home gadgets, Oskar Group continues to be a driving force in the tech accessories industry, elevating the way we live and interact with technology.",
+
+        "powerology_brand_text" : "Powerology, a brand of smart accessories, leads the market with its trendy designs, premium products, and state-of-the-art technology. Our mission is to redefine modern living through an array of on-demand products enriched with advanced functionalities. With a global reach, we proudly manufacture and distribute certified and licensed goods to customers worldwide, ensuring top-quality delivery to every corner of the globe.",
+        "levelo_brand_text" : "Levelo, a top mobile accessory brand worldwide, aims to offer the best protection for your devices. We offer various products, including phone cases, screen protectors, and smartwatch bands, ensuring your devices stay safe and secure.",
+        "porodo_brand_text" : "Porodo was established to provide affordable electronic accessories without sacrificing quality or advanced technology. They have a wide range of products in different categories and serve customers worldwide, offering thousands of top-quality solutions for their various needs.",
+        "greenlion_brand_text" : "Green Lion, a prominent accessory manufacturing brand, prides itself on its technologically advanced production system that pays meticulous attention to sophisticated details, elevating product concepts and ideas to new heights. Since 2019, Green Lion has remained passionately dedicated to understanding real-time consumer needs and offering the finest solutions in the accessory industry. With a special focus on top-quality mobile accessories, including chargers, cables, power sockets, and power banks, Green Lion continues to lead the way in delivering exceptional products that meet the demands of modern consumers.",
+        "lepresso_brand_text" : "Lepresso a distinguished coffee machine brand established in 2021. Lepresso’s primary goal is to deliver outstanding coffee experiences to homes and businesses worldwide. We aim to be the foremost coffee machine brand globally, celebrated for our inventive designs, premium products, and unmatched customer service. Our commitment lies in offering the finest coffee machines and accessories, enriching the coffee journey of our customers. We endeavor to create functional, efficient but also stylish, and distinctive products, ensuring a remarkable coffee experience for everyone.",
+
+        "export_title" : "We export to 45+ Countries Across the Globe ",
+        "export_text" : "Demonstrating the performance and efficiency in international markets since 1999. Beginning in UAE, we succeeded in establishing solid distribution networks across the MENA region. Once we succeeded in establishing a reliable foundation in MENA markets with our own offices and warehouses, we took the opportunity to expand our products and services to whole African countries and Europe. Today, we have strong distribution channels across the globe and strive to improve our services as we prioritize customer satisfaction.",
+        "asia" : "Asia",
+        "africa" : "Africa",
+        "egypt" : "Egypt",
+        "cairo" : "Cairo",
+        "sudan" : "Sudan",
+        "tunisia" : "Tunisia",
+        "tunis" : "Tunis",
+        "iraq" : "Iraq",
+        "baghdad" : "Baghdad",
+        "israel" : "Israel",
+        "telAviv" : "TelAviv",
+        "jordan" : "Jordan",
+        "khartoum" : "Khartoum",
+        "amman" : "Amman",
+        "riyadh" : "Riyadh",
+        "kuwait_city" : "Kuwait city",
+        "beirut" : "Beirut",
+        "muscat" : "Muscat",
+        "doha" : "Doha",
+        "dubai" : "Dubai",
+        
+        
+        "privacy_text1" : "Our fast-growing company, which has been in operation for more than twenty years, is eagerly looking for talented and motivated young minds who are ready to take on new challenges. If you are interested in working with us, please email your resume to hey@oskarme.com. We look forward to hearing from you!",
+        "privacy_header1" : "Your personal information",
+        "privacy_text2" : "We, www.oskarme.com collect your Personal Information for the primary purpose of providing our services to you, providing information to our clients and marketing. We may also use your Personal Information for secondary purposes closely related to the primary purpose, in circumstances where you would reasonably expect such use or disclosure. You may unsubscribe from our mailing/marketing lists at any time by contacting us in writing. When we collect any Personal Information we will, where appropriate and where possible, explain to you why we are collecting the information and how we plan to use it.",
+        "privacy_header2" : "Sensitive Information",
+        "privacy_text3" : "We are not collecting any sensitive information such as an individual's racial or ethnic origin, political opinions, membership of a political association, religious or philosophical beliefs, membership of a trade union or other professional body, criminal record or health information unless that information is essential to process and/ or deliver our products or services as per user’s request. Protection of personal information The personal information collected from you will be accessible only to authorized persons in Oskar Group to process your requirement and to deliver the products or services as per your request. The personal information never will be available in the public. In addition, no site user information will be shared, sold, or transferred to any third party without user’s prior consent.",
+        "privacy_header3" : "External Links",
+        "privacy_text4" : "There may contain links to other websites whose data protection and privacy practices may differ from ours. In such contexts, we are not responsible for the content and privacy practices of the other websites and it’s your responsibility to consult the privacy policies of the respective websites.",
+        "privacy_header4" : "Disclosure of Personal Information",
+        "privacy_text5" : "Your Personal Information may be disclosed in a number of circumstances including the following: \n a) Third parties where you consent to the use or disclosure; and \nb) Where required or authorised by law.",
+        "privacy_header5" : "Security of Personal Information",
+        "privacy_text6" : "Your Personal Information is stored and secured in a manner that reasonably protects it from misuse and loss from unauthorized access, modification or disclosure. When your Personal Information is no longer needed for the purpose for which it was obtained, we will take reasonable steps to destroy, permanently de-identify or remove it from our storage spaces.",
+        "privacy_header6" : "Access to your Personal Information",
+        "privacy_text7" : "You may access the Personal Information we hold about you and to update and/or correct it, subject to certain exceptions. If you wish to access your Personal Information, please contact us by writing. oskarme.com will not charge any fee for your access request, but may charge an administrative fee for providing a copy of your Personal Information. In order to protect your Personal Information, we may require identification from you before releasing the requested information.",
+        "privacy_header7" : "Modification on Privacy Policy",
+        "privacy_text8" : "oskarme.com shall reserve the right to make any minor or major change in privacy policy terms and conditions from time to time without any prior notice. If you continue using the portal after making any changes to the privacy policy, this means that you accept them.",
+
+
+        "terms_text1" : "Our Terms and Conditions were last updated on 25/07/2022. Please read these terms and conditions carefully before using Our Service.",
+        "terms_header1" : "1. Introduction",
+        "terms_text2" : "1.1. These terms and conditions shall govern your use of our website. \n1.2. By using our website, you accept these terms and conditions in full; accordingly, if you disagree with these terms and conditions or any part of these terms and conditions, you must not use our website.\n1.3. If you register with our website, submit any material to our website or use any of our website services, we will ask you to expressly agree to these terms and conditions. \n1.4. You must be at least eighteen years of age to use our website; by using our website or agreeing to these terms and conditions, you warrant and represent to us that you are at least eighteen years of age. \n1.5. Our website uses cookies; by using our website or agreeing to these terms and conditions, you consent to our use of cookies in accordance with the terms of our privacy and cookies policy.",
+        "terms_header2" : "2. Definitions",
+        "terms_text3" : "For the purposes of these Terms and Conditions: \n2.1. “Account” means a unique account created for You to access our Service or parts of our Service. \n2.2. “Company” (referred to as either 'the Company', 'We', 'Us' or 'Our' in this Agreement) refers to Oskar Group. \n2.3. “Country” refers to United Arab Emirates. \n2.4. “Content” refers to content such as text, images, or any other format of information that can be posted, uploaded, linked to or otherwise made available at the website, regardless of the form of that content. \n2.5. “Device” means any device that can access the Service such as a computer, a cell phone or a digital tablet. \n2.6. “Feedback” means feedback, suggestions, or comments sent by You regarding the performance, attributes or features of our Service. \n2.7. “Products” refer to the products or items offered for sale by Oskar Group. \n2.8. “Orders” mean a request by You to purchase Products from Us. \n2.9. “Promotions” refer to contests, discounts or other promotions offered through the Website. \n2.10. “Terms of Use” (also referred as 'Terms') mean these Terms and Conditions that form the entire agreement between You and the Company regarding the use of Oskar’s website. \n2.11. “The Website” refers to oskarme.com, accessible from https://oskarme.com/ \n2.12. “You” means the inh3idual accessing or using the website, or the company, or any other legal entity on behalf of which such inh3idual is accessing or using the Service, as applicable.",
+        "terms_header3" : "3. Copyright notice",
+        "terms_text4" : "Subject to the express provisions of these terms and conditions: \n3.1. we, together with our licensors, own and control all the copyright and other intellectual property rights in our website and the material on our website; and \n3.2. all the copyright and other intellectual property rights in our website and the material on our website are reserved.",
+        "terms_header4" : "4. Licence to use website",
+        "terms_text5" : "4.1. You may: \na) View pages from our website in a web browser; \nb) Download pages from our website for caching in a web browser; \nc) Print pages from our website; \nd) Stream audio and video files from our website]; and \ne) Use [our website services] by means of a web browser], \nf) Subject to the other provisions of these terms and conditions.\n4.2. Except as expressly permitted by Section 4.1 or the other provisions of these terms and conditions, you must not download any material from our website or save any such material to your computer. \n4.3. You may only use our website for your own personal and business purposes, and you must not use our website for any other purposes. \n4.4. Except as expressly permitted by these terms and conditions, you must not edit or otherwise modify any material on our website. \n4.5. Unless you own or control the relevant rights in the material, you must not: \na) Republish material from our website (including republication on another website); \nb) Sell, rent or sub-license material from our website; \nc) Show any material from our website in public; \nd) Exploit material from our website for a commercial purpose; or \ne) Redistribute material from our website. \n4.6. We reserve the right to restrict access to areas of our website, or indeed our whole website, at our discretion; you must not circumvent or bypass, or attempt to circumvent or bypass, any access restriction measures on our website.",
+        "terms_header5" : "5. Acceptable use",
+        "terms_text6" : "5.1. You must not: \na) Use our website in any way or take any action that causes, or may cause, damage to the website or impairment of the performance, availability or accessibility of the website; \nb) Use our website in any way that is unlawful, illegal, fraudulent or harmful, or in connection with any unlawful, illegal, fraudulent or harmful purpose or activity; \nc) Use our website to copy, store, host, transmit, send, use, publish or distribute any material which consists of (or is linked to) any spyware, computer virus, Trojan horse, worm, keystroke logger, rootkit or other malicious computer software; \nd) Conduct any systematic or automated data collection activities (including but not limited scraping, data mining, data extraction and data harvesting) on or in relation to our website without a prior written consent]; \ne) Access or interact with our website using any robot, spider or other automated means, except for the purpose of search engine indexing; \nf) Use the data collected from our website for any direct marketing activity (including but not limited email marketing, SMS marketing, telemarketing and direct mailing)]. \n5.2. You never use the data collected from our website to contact inh3iduals, companies or other persons or entities. \n5.3. You should ensure that all the information you provide us through our website, or in relation to our website, is true, accurate, relevant, complete and non-misleading.",
+        "terms_header6" : "6. Registration and accounts",
+        "terms_text7" : "6.1. You may register for an account with our website by completing and submitting the account registration form on our website, and clicking on the verification link or entering one time password you received in the email or mobile number that the website will send to you. \n6.2. You must not allow any other person to use your account to access the website. \n6.3. You must notify us in writing immediately if you become aware of any unauthorised use of your account. \n6.4. You must not use any other person's account to access the website, unless you have the proper permission from the respective users.",
+        "terms_header7" : "7. User login details",
+        "terms_text8" : "7.1. If you register for an account with our website, you will be provided a user ID and password. \n7.2. Your user ID must not be liable to mislead and must comply with the website content rules; you must not use your account or user ID for or in connection with the impersonation of any person.\n7.3. It’s your responsibility to keep your password confidential. \n7.4. You must notify us in writing immediately if you become aware of any unauthorized disclosure of the password. \n7.5. You are responsible for any activity on our website arising out of any failure to keep your password confidential, and may be held liable for any losses arising out of such a failure.",
+        "terms_header8" : "8. Cancellation and suspension of account",
+        "terms_text9" : "8.1. We may: \na) suspend your account;\nb) cancel your account; and/or \nc) edit your account details,at any time in our sole discretion without notice or explanation.\n8.2. You may cancel your account on our website [using your account control panel on the website].",
+        "terms_header9" : "9. License for your Content.",
+        "terms_text10" : "9.1. You grant us a worldwide, irrevocable, non-exclusive, royalty-free licence to use, reproduce, store, adapt, publish, translate and distribute your content in any existing or future media OR reproduce, store and publish your content on and in relation to this website and any successor website OR reproduce, store and, with your specific consent, publish your content on and in relation to this website. \n9.2. You hereby waive all your moral rights in your content to the maximum extent permitted by applicable law. \n9.3. You may edit your content to the extent permitted using the editing functionality made available on our website. \n9.4. Without prejudice to our other rights under these terms and conditions, if you breach any provision of these terms and conditions in any way, or if we reasonably suspect that you have breached these terms and conditions in any way, we may delete, unpublish or edit any or all of your content.",
+        "terms_header10" : "10. Limited warranties",
+        "terms_text11" : "10.1. We do not warrant or represent: \na) the completeness or accuracy of the information published on our website; \nb) that the material on the website is up to date; or \nc) that the website or any service on the website will remain available. \n10.2. We reserve the right to discontinue or alter any or all of our website services, and to stop publishing our website, at any time in our sole discretion without notice or explanation; and you will not be entitled to any compensation or other payment upon the discontinuance or alteration of any website services, or if we stop publishing the website.",
+        "terms_header11" : "11. Limitations and exclusions of liability",
+        "terms_text12" : "11.1. Nothing in these terms and conditions will: \na) limit or exclude any liability for death or personal injury resulting from negligence; \nb) limit or exclude any liability for fraud or fraudulent misrepresentation; \nc) limit any liabilities in any way that is not permitted under applicable law; or \nd) exclude any liabilities that may not be excluded under applicable law. \n11.2. As long as the information and services on our website are free of charge, we will not be liable for any loss or damage of any nature. \n11.3. We will not be liable to you in respect of any losses arising out of any events those are beyond our reasonable control. \n11.4. We will not be liable to you in respect of any business losses, including (but not limited) loss or damage to profits, income, revenue, use, production, anticipated savings, business, contracts, commercial opportunities or goodwill. \n11.5. We will not be liable to you in respect of any loss or corruption of any data, database or software. \n11.6. We will not be liable to you in respect of any special, indirect or consequential loss or damage.",
+        "terms_header12" : "12. Breaches of these terms and conditions",
+        "terms_text13" : "12.1. If you breach these terms and conditions in any way, or if we reasonably suspect that you have breached these terms and conditions in any way, we may:\na) send you one or more formal warnings; \nb) temporarily suspend your access to our website; \nc) permanently prohibit you from accessing our website; \nd) block computers using your IP address from accessing our website; \ne) Contact any or all of your internet service providers and request that they block your access to our website; \nf) commence legal action against you, whether for breach of contract or otherwise; and/or \ng) Suspend or delete your account on our website.",
+        "terms_header13" : "13. Revision of the Terms",
+        "terms_text14" : "13.1. We may revise these terms and conditions from time to time. \n13.2. The revised terms and conditions shall apply to the use of our website from the date of publication of the revised terms and conditions on the website, and you hereby waive any right you may otherwise have to be notified of, or to consent to, revisions of these terms and conditions. OR We will give you written notice of any revision of these terms and conditions, and the revised terms and conditions will apply to the use of our website from the date that we give you such notice; if you do not agree to the revised terms and conditions, you must stop using our website.",
+        "terms_header14" : "14. Entire agreement",
+        "terms_text15" : "Subject to these terms and conditions, together with our privacy and cookies policy, shall constitute the entire agreement between you and us in relation to your use of our website and shall supersede all previous agreements between you and us in relation to your use of our website.",
+        "terms_header15" : "15. Law and jurisdiction",
+        "terms_text16" : "15.1. These terms and conditions shall be governed by and construed in accordance with [UAE Federal Law]. \n15.2. Any disputes relating to these terms and conditions shall be subject to the jurisdiction of the courts of Dubai.",
+        "terms_header16" : "16. Our details",
+        "terms_text17" : "16.1. This website is owned and operated by Oskar Group. \n16.2. We are registered in Dubai, United Arab Emirates, and our registered office is located at Deira, Dubai, UAE.\n16.3. You can contact us: \na) by post, using the postal address given in the contact us section of this website \nb) using our website contact form; \nc) by telephone, on the contact number published on our website from time to time; or \nd) by email, using the email address published on our website from time to time.",
+
+
+
+        "warranty_title" : "General Warranty Terms",
+        "warranty_text1" : "This Agreement applies to any order, purchase, receipt, delivery or use of any products and services (collectively, “purchase”) from Oskar Group (“Oskar Group”) or any of its subsidiaries, unless you enter into a separate written agreement with Oskar Group.",
+        "warranty_text2" : "THIS AGREEMENT APPLIES TO YOUR PURCHASE UNLESS YOU NOTIFY Oskar Group IN A WRITTEN FORMAT THAT YOU DO NOT AGREE TO THIS AGREEMENT WITHIN 15 DAYS AFTER YOU RECEIVE THIS AGREEMENT AND YOU RETURN YOUR PRODUCT OR CANCEL SERVICES UNDER OSKAR PHONE’S REFUND POLICY.",
+        "warranty_text3" : "Most of Oskar Group’ products carry a Product specific Warranty according to the respective manufacturer. This warrants to the original purchaser or, for products purchased from a Reseller, to the original end-user that Oskar Group - branded products will be free from defects in materials and workmanship. During the warrant period, Oskar Group will, at its option either: \na) Provide replacement parts necessary to repair the product; \nb) Replace the product with a comparable product; or \nc) Refund the amount you paid for the product. \nd) Replacement parts or products will be new or serviceably used, comparable in function and performance to the original part or product, and warranted for the remainder of the original warranty period. Purchasing additional products from Oskar Group does not extend your warranty period. \nOnce the aforesaid period of the concerned product has expired, there shall be no further warranty and/or guarantee applicable in respect of such products, whether arising in terms of contract law, the law of sale, statutory law, common law and/or from any other cause whatsoever, and the customer, purchaser and/or user concerned of such Equipment shall have no recourse whatsoever against Oskar Group in respect thereof after the warranty period. This warranty covers normal use of the products and Oskar Group does not warrant misuse and improper handling, lack of care, abuse, accidents, unauthorised service or parts or the combination of branded items with other products and further natural calamities like lightning strikes, earthquakes, water damage and/or floods.",
+
+
+        "delivery_term_title": "Delivery and Return Terms",
+        "delivery_text1" : "We do not accept any returns unless goods are faulty or due to our shipping or picking error \nIf you wish to return products please notify and send an email to sales@oskarme.com quoting your order number, your name, invoice number, reason for the return within 14 days of receiving the goods. \nAll items should be returned in their original condition and packaging with the returns form enclosed. We will not be liable for any loss or damage incurred whilst returns are held by third parties or for the return postage costs. \nIf the original packaging of the product has been damaged or destroyed we will only issue a refund if the product is being returned due to manufacture defects only. If the original packaging of a defective product has been damaged or destroyed you should ensure that the returned product is adequately packed for shipment back to us. \nRepackage the product in its original packaging, including any accessories, brochures, manuals, guarantees or warranties that came with the product. Unfortunately we will be unable to issue a refund where the product is in an incomplete state. \nOnce the items are received by us, there will be no refunds. Credit or exchange only. Please note customers must arrange the return of the item by their own courier and at their own cost and also please provide a tracking number when enquiring on the status of your return. We reserve the right to deduct an Admin restocking fee of up to 20% on returns that do not have a genuine manufacturing fault"
+
+
+
+}
