@@ -27,7 +27,7 @@ const HeroSection = () => {
         </div>
         {/*  */}
         <div className="grid grid-cols-1">
-          <div className="w-full relative">
+          <div className="w-max md:w-full relative">
             <img src={headphone} className="w-full" />
             <div className="absolute top-5 left-5 text-white">
               <h1 className="capitalize text-xl font-bold">{t("headphones")}</h1>
@@ -41,7 +41,7 @@ const HeroSection = () => {
               </Link>
             </div>
           </div>
-          <div className="w-full relative ">
+          <div className="w-max md:w-full relative ">
             <img src={smartwatch} className="w-full" />
             <div className="absolute top-3 left-5 text-white">
               <h1 className="capitalize text-xl  font-bold">{t("smart_watch")}</h1>

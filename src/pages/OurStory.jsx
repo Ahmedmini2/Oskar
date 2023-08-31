@@ -1,6 +1,6 @@
 
 import  { useEffect } from 'react';
-import { NewsHeader } from "../components/News/NewsHeader";
+
 import { StoriesHeader } from '../components/OurStories/StoryHeader';
 import { MainStory } from '../components/OurStories/MainStory';
 
