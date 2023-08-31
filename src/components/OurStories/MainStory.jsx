@@ -6,11 +6,11 @@ export const MainStory = () => {
         
 
  
-  <div className="grid gap-6 grid-cols-2 sm:gap-12 lg:grid-cols-3 lg:gap-8 mb-16">
+  <div className="grid gap-6 grid-cols-2 justify-items-center sm:gap-12 lg:grid-cols-3 lg:gap-8 mb-16 px-6 ">
    
     <div>
       <h4 className="text-lg sm:text-xl font-semibold text-gray-800 dark:text-gray-200">Accuracy rate</h4>
-      <p className="mt-2 sm:mt-3 text-4xl sm:text-6xl font-bold text-blue-500">99.95%</p>
+      <p className="mt-2 sm:mt-3 text-4xl sm:text-6xl font-bold text-cyan-400">99.95%</p>
       <p className="mt-1 text-gray-500">in fulfilling orders</p>
     </div>
     
@@ -18,7 +18,7 @@ export const MainStory = () => {
    
     <div>
       <h4 className="text-lg sm:text-xl font-semibold text-gray-800 dark:text-gray-200">Startup businesses</h4>
-      <p className="mt-2 sm:mt-3 text-4xl sm:text-6xl font-bold text-blue-500">2,000+</p>
+      <p className="mt-2 sm:mt-3 text-4xl sm:text-6xl font-bold text-cyan-400">2,000+</p>
       <p className="mt-1 text-gray-500">partner with Preline</p>
     </div>
     
@@ -26,21 +26,21 @@ export const MainStory = () => {
    
     <div>
       <h4 className="text-lg sm:text-xl font-semibold text-gray-800 dark:text-gray-200">Happy customer</h4>
-      <p className="mt-2 sm:mt-3 text-4xl sm:text-6xl font-bold text-blue-500">85%</p>
+      <p className="mt-2 sm:mt-3 text-4xl sm:text-6xl font-bold text-cyan-400">85%</p>
       <p className="mt-1 text-gray-500">this year alone</p>
     </div>
     
   </div>
 
 
-        <div className="grid grid-cols-3 gap-16">
+        <div className="grid md:grid-cols-3 grid-col-1  gap-16 py-4 px-4">
             <div className=" col-span-1">
                 <img src={partners} className="w-full"  />
             </div>
-            <div className="col-span-2"> 
-                <h1 className=" text-6xl font-semibold text-cyan-400">About Oskar Team</h1>
-                <h1 className=" text-3xl font-semibold">History</h1>
-                <p className=" whitespace-pre-line">
+            <div className="md:col-span-2"> 
+                <h1 className="  xl:text-6xl  md:text-4xl sm:text-lg text-2xl font-semibold font-heebo text-cyan-400">About Oskar Team</h1>
+                <h1 className=" lg:text-3xl md:text-sm text-xl font-semibold">History</h1>
+                <p className=" whitespace-pre-line pt-4">
                 Since 1999, Oskar Group has grown from a small family business in Dubai to a proud pioneer of the tech accessories business with multiple offices, warehouses, and retail stores across the Middle East and North Africa. Over the past two decades, with advanced technology, professionalism, and customer relationship management, we have been recommending the most suitable products and services for all types of gadgets and tech accessories requirements in the region.
 
 Our value-driven business approach has made us one of the most trusted companies in the region, offering innovative, cost-effective, and customized solutions. Moreover, our competitive and experienced staff enables us to source, stock, and promptly distribute quality products worldwide. Our core values are customer satisfaction, product innovation, service excellence, and teamwork. Keeping the legacy alive, we continue to grow by expanding our product line and reaching new markets.
